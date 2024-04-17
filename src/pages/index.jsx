@@ -1,0 +1,10 @@
+export {Login} from './Login'
+export {PageNotFound} from './PageNotFound'
+export {ProductDetail} from './ProductDetail'
+export {Register} from './Register'
+
+export {CartPage} from './Cart/CartPage'
+export {DashboardPage} from './Dashboard/DashboardPage'
+export {HomePage} from './Home/HomePage'
+export {OrderPage} from './Order/OrderPage'
+export {ProductsPage} from './Products/ProductsPage'
